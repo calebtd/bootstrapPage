@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+}/*# sourceMappingURL=style.css.map */
